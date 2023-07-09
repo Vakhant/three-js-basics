@@ -3,6 +3,10 @@
     "dat.gui": "^0.7.9",
     "three": "^0.154.0"
   },
+  "scripts": {
+    "build": "vite build",
+    "preview": "vite preview"
+  },
   "devDependencies": {
     "vite": "^4.4.1"
   }
